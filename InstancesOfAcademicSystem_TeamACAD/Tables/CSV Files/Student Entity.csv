@@ -1,0 +1,21 @@
+studentID,fName,lName,email,gpa,major,totalCredit,depCode,DOB
+100444555,Daniel,Smith,daniel.smith@student.jaegar.ca,3.98,Information Technology,24,INFO,05-08-2001
+100444678,Eric,Glass,eric.glass@student.jaegar.ca,3.67,Philosophy,29,PHIL,29-12-2000
+100446123,Justin,Thomas,justin.thomas@student.jaegar.ca,3.55,Business,30,BUSI,01-12-1999
+100446789,David,Lee,david.lee@student.jaegar.ca,3.49,Mathematics,27,MATH,30-06-2000
+100447111,Rachel,Adams,rachel.adams@student.jaegar.ca,2.9,Philosophy,30,PHIL,02-05-1999
+100447918,Susan,Hamilton,susan.hamilton@student.jaegar.ca,3.52,Information Technology,30,INFO,21-05-2000
+100451001,Abigail,Turner,abigail.turner@student.jaegar.ca,3.88,Business,32,BUSI,07-07-2001
+100451234,Kimberly,Brown,kimberly.brown@student.jaegar.ca,3.8,Mathematics,28,MATH,14-07-1999
+100451987,Natalie,Richards,natalie.richards@student.jaegar.ca,3.85,Mathematics,31,MATH,22-10-1998
+100452222,Kevin,Walker,kevin.walker@student.jaegar.ca,3.68,History,26,HIST,05-12-2000
+100453222,Brandon,Nelson,brandon.nelson@student.jaegar.ca,3.53,Philosophy,28,PHIL,28-02-2001
+100454321,Laura,Johnson,laura.johnson@student.jaegar.ca,3.6,Information Technology,29,INFO,19-02-1999
+100455555,Angela,Brooks,angela.brooks@student.jaegar.ca,3.77,History,29,HIST,23-03-1999
+100456666,Monica,Hall,monica.hall@student.jaegar.ca,3.59,History,28,HIST,30-11-2001
+100458001,Ryan,Clark,ryan.clark@student.jaegar.ca,3.66,Business,29,BUSI,23-11-2000
+100458123,Sophia,Martinez,sophia.martinez@student.jaegar.ca,4,Mathematics,34,MATH,15-09-2000
+100459012,Emily,Perez,emily.perez@student.jaegar.ca,3.75,Information Technology,33,INFO,26-04-2000
+100459321,Robyn,Davis,robyn.davis@student.jaegar.ca,3.9,History,31,HIST,08-03-1998
+100459333,Meghan,Wright,meghan.wright@student.jaegar.ca,3.82,Philosophy,31,PHIL,19-08-2000
+100462345,Julie,Horn,julie.horn@student.jaegar.ca,4.01,Business,32,BUSI,02-11-2001

@@ -1,0 +1,12 @@
+enrollID,enrollDate,enrollTime,enrollSemester,studentID,status
+ENR100,23-May-25,09:00:00,Spring,100451987,Inactive
+ENR101,15-Jan-25,11:30:00,Spring,100458123,Active
+ENR102,18-Jan-25,13:15:00,Spring,100446789,Active
+ENR103,21-Jan-25,15:45:00,Spring,100451234,Active
+ENR104,24-Jan-25,17:00:00,Spring,100444555,Inactive
+ENR105,27-Jan-25,09:30:00,Spring,100454321,Active
+ENR106,30-Jan-25,11:00:00,Spring,100459012,Active
+ENR107,02-Feb-25,13:00:00,Spring,100447918,Active
+ENR108,05-Feb-25,15:00:00,Spring,100456666,Active
+ENR109,08-Feb-25,17:30:00,Spring,100446123,Active
+ENR110,11-Feb-25,09:15:00,Spring,100455555,Active

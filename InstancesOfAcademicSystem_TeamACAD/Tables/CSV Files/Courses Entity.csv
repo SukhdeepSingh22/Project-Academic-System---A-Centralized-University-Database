@@ -1,0 +1,11 @@
+courseID,courseName,courseAbbreviation,depCode
+BUSI1111,"Principles of Management",BUS101,BUSI
+BUSI1112,"Marketing Fundamentals",BUS102,BUSI
+HIST1111,"World History I",HIST101,HIST
+HIST1112,"North American History",HIST102,HIST
+INFO1111,"Introduction to Information Systems",IS101,INFO
+INFO1112,"Data Structures in IT",IS102,INFO
+INFO1113,"Database Systems",IS103,INFO
+MATH1111,"Calculus I",MATH101,MATH
+MATH1112,"Linear Algebra",MATH102,MATH
+PHIL1111,"Introduction to Ethics",PHIL101,PHIL
