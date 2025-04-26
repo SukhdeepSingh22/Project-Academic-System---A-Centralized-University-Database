@@ -61,6 +61,12 @@ By consolidating fragmented academic processes into a single MySQL database, the
 
 ---
 
+## 📺 Video Presentation
+
+▶️ [Watch the Video Presentation on OneDrive](https://kpuemp-my.sharepoint.com/:v:/g/personal/sukhdeep_singh14_student_kpu_ca/EZMvpy8JjTlDsHw7dh22uiMBFB7NhrRg8gbBIHdZC_gJ0A?e=LwDWWj)
+
+---
+
 ## **Database Technologies**
 
 - **Database Management System:** MySQL Workbench
